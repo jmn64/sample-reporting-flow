@@ -16,4 +16,4 @@ Serial Number: 15293840981234
 
 ## Follow Up Items
 - [x] [2-12-2023: Stock fuses](../jobs/job_1234/daily_reports/2-12-23.md)
-- [ ] [9-17-2024: Maintenance Sticker](../jobs/job_1234/daily_reports/9-17-2024.md)
+- [ ] [9-17-2024: Maintenance Sticker](../jobs/job_1234/daily_reports/9-17-24.md)
