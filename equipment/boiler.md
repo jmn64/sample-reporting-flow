@@ -9,6 +9,9 @@ Serial Number: 15293840981234
 
 ![Photo of a water boiler](boiler.jpg)
 
+## Literature
+- [Tech Manual](https://s3-us-west-2.amazonaws.com/catsy.782/Ambient+HPS+Manual+Catsy+Placeholder.pdf)
+
 ## Known Issues
 - Temperature gauge reads 10 degrees too high
 
