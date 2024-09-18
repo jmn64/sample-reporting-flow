@@ -7,6 +7,8 @@ Model: M24-AF3
 
 Serial Number: 15293840981234
 
+![Photo of a water boiler](boiler.jpg)
+
 ## Known Issues
 - Temperature gauge reads 10 degrees too high
 
